@@ -1,0 +1,15 @@
+/Users/lucacommendatore/Projects/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/lucacommendatore/Projects/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/lucacommendatore/Projects/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/lucacommendatore/Projects/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/lucacommendatore/Projects/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.AssemblyReference.cache
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/lucacommendatore/Projects/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll

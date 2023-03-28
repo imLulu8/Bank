@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FF39CF7B-31B7-4C02-8869-CDA3959BF5C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank/Program.cs">
+    <Files>
+      <File FileName="Bank/Customer.cs" Line="46" Column="27" />
+      <File FileName="Bank/Loan.cs" Line="11" Column="31" />
+      <File FileName="Bank/Bank.cs" Line="127" Column="18" />
+      <File FileName="Bank/Program.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
